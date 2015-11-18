@@ -1,15 +1,15 @@
 ##Debug Log
-###Behavior expected:
+####Behavior expected:
 1. 
 
-###Observed behavior:
+####Observed behavior:
 1. 
 
 ####Hypothesis:
 1. 
 
-###Test hypothesis:
+####Test hypothesis:
 1.
 
-###Result:
+####Result:
 1. 
