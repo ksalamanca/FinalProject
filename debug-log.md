@@ -4,7 +4,7 @@
 ##Observed behavior:
 1. 
 
-##Hypothesis for mismatch:
+##Hypothesis:
 1. 
 
 ##Test hypothesis:
